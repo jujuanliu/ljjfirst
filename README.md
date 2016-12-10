@@ -1,0 +1,2 @@
+# ljjfirst
+first repository
